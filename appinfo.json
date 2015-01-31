@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "afurphy@gmail.com",
+    "longName": "Next Train",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Next Train",
+    "uuid": "37da0c4c-436f-4489-9886-3a5079bf742a",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
