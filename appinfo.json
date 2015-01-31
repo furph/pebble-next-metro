@@ -9,6 +9,11 @@
     "resources": {
         "media": [
             {
+                "file": "fonts/Counter-Dial.ttf",
+                "name": "COUNTER_DIAL_18",
+                "type": "font"
+            },
+            {
                 "file": "images/menu-image.png",
                 "name": "MENU_IMAGE",
                 "type": "png-trans"
